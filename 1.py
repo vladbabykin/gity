@@ -1,2 +1,4 @@
 salat = 7
-print(salat)
+pizza = 8
+lunch = salat + pizza
+print(lunch)
